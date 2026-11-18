@@ -1,9 +1,9 @@
-<p align="center">
-  <a href="https://flexarion-officiel.github.io/"><img src="https://flexarion-officiel.github.io/assets/img/flexarion-og-1200x630.jpg" alt="Flexarion, studio indépendant de jeux vidéo de science-fiction à Aix-en-Provence" width="720"></a>
-</p>
-
 <h1 align="center">Flexarion</h1>
 <p align="center"><strong>Studio indépendant de jeux vidéo de science-fiction, à Aix-en-Provence, depuis 2022.</strong></p>
+
+<p align="center">
+  <a href="https://flexarion-officiel.github.io/"><img src="https://flexarion-officiel.github.io/assets/img/below-zero-capture-causalite-480.webp" alt="Flexarion, studio indépendant de jeux vidéo de science-fiction à Aix-en-Provence"></a>
+</p>
 
 <p align="center">
   <a href="https://flexarion-officiel.github.io/">Site officiel</a> ·
@@ -39,16 +39,9 @@ En **2156**, une ville entière est découverte sous Aix-en-Provence. Elle est i
 
 | Dépôt | Description |
 |---|---|
+| [.github](https://github.com/flexarion-officiel/.github) | Dépôt dans lequel se trouve cette page de présentation |
 | [flexarion-officiel.github.io](https://github.com/flexarion-officiel/flexarion-officiel.github.io) | Le site officiel du studio : HTML5 statique, données structurées, GitHub Pages |
-
-## 🎨 Identité
-
-![#071421](https://placehold.co/16x16/071421/071421.png) `#071421` Noir profond ·
-![#123A58](https://placehold.co/16x16/123A58/123A58.png) `#123A58` Bleu nuit ·
-![#19B9D4](https://placehold.co/16x16/19B9D4/19B9D4.png) `#19B9D4` Cyan électrique ·
-![#B7DDE8](https://placehold.co/16x16/B7DDE8/B7DDE8.png) `#B7DDE8` Bleu glacier ·
-![#E8EDF0](https://placehold.co/16x16/E8EDF0/E8EDF0.png) `#E8EDF0` Blanc froid
 
 ---
 
-<sub>Flexarion est un projet pédagogique fictif réalisé dans le cadre du BUT Informatique de l'IUT d'Aix-Marseille, par Manal Bartal, Kawthar Chaib Eddour, Noé Petit et Alexandre Sbeghen. Le studio et son équipe n'existent pas ; les visuels sont générés par IA. Voir les <a href="https://flexarion-officiel.github.io/mentions-legales/">mentions légales</a>.</sub>
+<sub>Flexarion est un projet pédagogique réalisé dans le cadre du BUT Informatique de l'IUT d'Aix-Marseille, par Manal BARTAL, Kawthar CHAIB EDDOUR, Noé PETIT et Alexandre SBEGHEN. Voir les <a href="https://flexarion-officiel.github.io/mentions-legales/">mentions légales</a>.</sub>
